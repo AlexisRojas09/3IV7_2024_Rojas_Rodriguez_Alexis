@@ -1,6 +1,6 @@
 Algoritmo Chicharronera
 	Definir a, b, c, discriminante, solucion1, solucion2, imaginario Como Real
-	
+Repetir
 	Escribir "Introduce el coeficiente a: "
 	Leer a
 	Escribir "Introduce el coeficiente b: "
@@ -19,4 +19,7 @@ Algoritmo Chicharronera
 		imaginario <- raiz(Abs(discriminante)) / (2*a)
 		Escribir "Las soluciones complejas son: ", solucion1, " + ", imaginario, "i y ", solucion1, " - ", imaginario, "i"
 	FinSi
+	Escribir "¿Deseas repetir el algoritmo? (1 = Sí, 0 = No)"
+	Leer opcion
+Hasta Que opcion = 0
 FinAlgoritmo

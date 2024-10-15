@@ -1,7 +1,7 @@
 Algoritmo ConversionBinaria
 	Definir n, residuo Como Entero
 	Definir binario Como Texto
-	
+Repetir
 	//el binario lo tengo que concatenar
 	binario = ""
 	
@@ -27,4 +27,7 @@ Algoritmo ConversionBinaria
 			Escribir "Ingresa un número positivo"
 		FinSi
 	FinSi
+	Escribir "¿Deseas repetir el algoritmo? (1 = Sí, 0 = No)"
+	Leer opcion
+Hasta Que opcion = 0
 FinAlgoritmo

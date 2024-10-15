@@ -1,5 +1,6 @@
 Algoritmo ContarPositivosNegativos
 	Definir num, positivos, negativos, n Como Entero
+Repetir
 	positivos <- 0
 	negativos <- 0
 	
@@ -21,4 +22,7 @@ Algoritmo ContarPositivosNegativos
 	
 	Escribir "Cantidad de números positivos: ", positivos
 	Escribir "Cantidad de números negativos: ", negativos
+	Escribir "¿Deseas repetir el algoritmo? (1 = Sí, 0 = No)"
+	Leer opcion
+Hasta Que opcion = 0
 FinAlgoritmo
