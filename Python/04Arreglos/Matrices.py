@@ -6,7 +6,7 @@ def ingresar_matriz():
     for i in range(3):
         fila = []
         for j in range(3):
-            valor = float(input("Elemento: [{i + 1}][{j + 1}]: "))
+            valor = float(input(f"Elemento: [{i + 1}][{j + 1}]: "))
             fila.append(valor)
         matriz.append(fila)
     return matriz
