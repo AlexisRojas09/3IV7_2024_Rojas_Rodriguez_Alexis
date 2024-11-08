@@ -1,0 +1,30 @@
+ABC1234,            Toyota,            Corolla,             2020,             1.8L,             132,             FWD,             10.5 segundos
+DEF5678,            Honda,            Civic,             2019,             2.0L,             158,             FWD,             8.2 segundos
+GHI9101,            Ford,            Mustang,             2021,             5.0L V8,             450,             RWD,             4.3 segundos
+JKL2345,            Chevrolet,            Camaro,             2022,             3.6L V6,             335,             RWD,             5.1 segundos
+MNO6789,            BMW,            3 Series,             2020,             2.0L,             255,             RWD,             5.6 segundos
+PQR1234,            Mercedes-Benz,            C-Class,             2021,             2.0L,             255,             RWD,             5.9 segundos
+STU5678,            Audi,            A4,             2021,             2.0L,             248,             AWD,             6.0 segundos
+VWX9102,            Tesla,            Model 3,             2021,             Eléctrico,             283,             RWD,             5.3 segundos
+YZA2345,            Nissan,            Altima,             2018,             2.5L,             188,             FWD,             7.9 segundos
+BCD6789,            Mazda,            3,             2020,             2.5L,             186,             AWD,             8.1 segundos
+EFG1234,            Hyundai,            Elantra,             2019,             2.0L,             147,             FWD,             8.5 segundos
+HIJ5678,            Kia,            Optima,             2018,             2.4L,             185,             FWD,             8.3 segundos
+KLM9102,            Volkswagen,            Golf,             2020,             1.4L,             147,             FWD,             8.0 segundos
+NOP2345,            Subaru,            Impreza,             2019,             2.0L,             152,             AWD,             9.5 segundos
+QRS6789,            Volvo,            S60,             2021,             2.0L Turbo,             250,             AWD,             6.4 segundos
+TUV1234,            Jaguar,            XF,             2020,             2.0L,             247,             RWD,             6.1 segundos
+WXY5678,            Porsche,            911,             2021,             3.0L Turbo,             379,             RWD,             4.0 segundos
+ZAB9103,            Lexus,            ES,             2019,             3.5L,             302,             FWD,             6.8 segundos
+CDE2345,            Dodge,            Challenger,             2021,             3.6L V6,             303,             RWD,             6.3 segundos
+FGH6789,            Land Rover,            Defender,             2022,             2.0L Turbo,             296,             AWD,             7.1 segundos
+IJK1234,            Mitsubishi,            Outlander,             2021,             2.5L,             181,             AWD,             8.5 segundos
+LMN5678,            Genesis,            G70,             2020,             3.3L Turbo,             365,             RWD,             4.7 segundos
+OPQ9102,            Acura,            TLX,             2021,             2.0L Turbo,             272,             AWD,             5.7 segundos
+RST2345,            Chrysler,            300,             2019,             3.6L V6,             292,             RWD,             6.5 segundos
+UVW6789,            Ferrari,            Portofino,             2022,             3.9L V8,             591,             RWD,             3.5 segundos
+XYZ1234,            Alfa Romeo,            Giulia,             2020,             2.0L Turbo,             280,             RWD,             5.5 segundos
+ABC4567,            Jeep,            Wrangler,             2021,             3.6L V6,             285,             AWD,             6.8 segundos
+DEF7890,            Mini,            Cooper,             2019,             1.5L Turbo,             134,             FWD,             7.3 segundos
+GHI0123,            Cadillac,            CT5,             2021,             2.0L Turbo,             237,             RWD,             6.9 segundos
+JKL3456,            Lincoln,            Corsair,             2021,             2.0L Turbo,             250,             AWD,             6.4 segundos
