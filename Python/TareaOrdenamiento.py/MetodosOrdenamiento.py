@@ -121,7 +121,6 @@ ventana.geometry("500x600")
 
 pila = []
 
-# Elementos de la interfaz
 label_instrucciones = tk.Label(ventana, text="Ingresa números (máximo 40):", font=("Arial", 12))
 label_instrucciones.pack(pady=10)
 
